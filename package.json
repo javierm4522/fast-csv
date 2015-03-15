@@ -29,12 +29,6 @@
     "grunt": "~0.4.1",
     "grunt-contrib-jshint": "~0.4.3"
   },
-  "dependencies": {
-    "is-extended": "0.0.8",
-    "object-extended": "0.0.5",
-    "extended": "git://github.com/at0g/extended",
-    "string-extended": "git://github.com/at0g/string-extended"
-  },
   "engines": {
     "node": ">=0.10"
   },
@@ -48,5 +42,5 @@
     "shasum": "d08dbdea7efb107433ee6fde1627d8a81e7329d5"
   },
   "_resolved": "git://github.com/at0g/fast-csv#94fff73fd962254163f41ec8b206a2643ee03455",
-  "_from": "fast-csv@git://github.com/at0g/fast-csv"
+  "_from": "fast-csv@git://github.com/javierm4522/fast-csv"
 }
